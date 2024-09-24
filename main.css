@@ -1,0 +1,11 @@
+@charset "utf-8";
+h1 {
+    color: #000000;
+    font-weight: normal;
+    font-size: 36px;
+}
+table {
+    background-color: #E5E4E2;
+    border: none;
+    
+}
